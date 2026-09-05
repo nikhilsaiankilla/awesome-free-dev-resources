@@ -109,6 +109,7 @@ Tools that run entirely client-side - nothing you paste gets uploaded anywhere.
 
 ## AI / LLM Dev Tools
 
+- [Agent QA](https://github.com/vostride/agent-qa) — Natural-language web and mobile testing with CLI and MCP interfaces; no software fee for FSL-1.1-ALv2 permitted use, with model/browser/device provider costs separate.
 - [OpenAI Pricing Calculator (Simple Dev Tools)](https://simpledevtools.org/tools/openai-pricing-calculator) - Estimate OpenAI API costs by model and token usage.
 - [LLM Token Counter (Simple Dev Tools)](https://simpledevtools.org/tools/token-counter) - Count tokens for GPT, Claude, and other LLMs before hitting context limits.
 - [Ollama](https://ollama.com) - Run open-source LLMs locally, completely free.
