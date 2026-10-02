@@ -29,6 +29,7 @@ Built and maintained by indie hackers, for indie hackers. PRs welcome, see the C
 - [Netlify](https://netlify.com) - Static site and Jamstack hosting with built-in forms, functions, and CI. Free tier covers most side projects comfortably.
 - [Cloudflare Pages](https://pages.cloudflare.com) - Unlimited free static hosting with unlimited bandwidth, backed by Cloudflare's global CDN.
 - [Cloudflare Workers](https://workers.cloudflare.com) - Serverless functions at the edge, extremely generous free request quota.
+- [Easypanel](https://easypanel.io/) - Proprietary self-hosted application deployment panel with a permanent free plan for three projects; server hosting costs are separate.
 - [Railway](https://railway.app) - Deploy full backends, databases, and cron jobs from a Dockerfile or repo with minimal config. Free trial credits, then usage-based.
 - [Render](https://render.com) - Free tier for web services, static sites, and cron jobs - good Heroku alternative.
 - [Fly.io](https://fly.io) - Deploy containers close to your users globally, free allowance for small apps.
