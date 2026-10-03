@@ -25,6 +25,7 @@ Built and maintained by indie hackers, for indie hackers. PRs welcome, see the C
 
 ## Hosting & Deployment
 
+- [Shipvela](https://shipvela.com) — Static website hosting through GitHub or a CLI, with 3 projects, 20 publishes per month, custom domains and managed HTTPS on the free Hobby plan.
 - [Vercel](https://vercel.com) - Zero-config hosting for Next.js and other frontend frameworks. Generous free tier, automatic preview deployments per PR.
 - [Netlify](https://netlify.com) - Static site and Jamstack hosting with built-in forms, functions, and CI. Free tier covers most side projects comfortably.
 - [Cloudflare Pages](https://pages.cloudflare.com) - Unlimited free static hosting with unlimited bandwidth, backed by Cloudflare's global CDN.
