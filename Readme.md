@@ -47,6 +47,7 @@ Built and maintained by indie hackers, for indie hackers. PRs welcome, see the C
 
 Tools that run entirely client-side - nothing you paste gets uploaded anywhere.
 
+- [BestJSON](https://bestjson.com/) — Free browser-based JSON formatting, validation, repair, comparison, and conversion; input is processed locally without an account.
 - [Simple Dev Tools](https://simpledevtools.org) - Free, privacy-first browser-based developer utilities: JSON formatter/validator, JWT decoder, Base64/URL encoding, regex tester, hash & HMAC generators, UUID/NanoID/ULID generators, cron parser, and more, all client-side.
 - [CyberChef](https://gchq.github.io/CyberChef/) - GCHQ's "cyber Swiss Army knife" for encoding, encryption, and data analysis, entirely in-browser.
 - [DevDocs](https://devdocs.io) - Fast, searchable API documentation for dozens of languages and frameworks in one place.
