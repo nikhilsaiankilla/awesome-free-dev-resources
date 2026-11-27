@@ -112,6 +112,7 @@ Tools that run entirely client-side - nothing you paste gets uploaded anywhere.
 - [OpenAI Pricing Calculator (Simple Dev Tools)](https://simpledevtools.org/tools/openai-pricing-calculator) - Estimate OpenAI API costs by model and token usage.
 - [LLM Token Counter (Simple Dev Tools)](https://simpledevtools.org/tools/token-counter) - Count tokens for GPT, Claude, and other LLMs before hitting context limits.
 - [Ollama](https://ollama.com) - Run open-source LLMs locally, completely free.
+- [Orkas](https://github.com/Orkas-AI/Orkas) - MIT-licensed desktop workspace that coordinates local coding agents around project files; the source build supports a compatible local model endpoint.
 - [Hugging Face](https://huggingface.co) - Free hosting and inference for a huge range of open models and datasets.
 
 ---
